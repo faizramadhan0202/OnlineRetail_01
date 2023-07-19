@@ -1,4 +1,4 @@
-# Online Reatil
+# Online Retail
 
 Tools   : Jupyter Notebook <br>
 Library : Pandas, Seaborn, Numpy, Matplotlib <br>
